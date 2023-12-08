@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import "./header.css"
 import CTA from "./CTA"
-import ME from "../../assets/avatar-full.png"
+import ME from "../../assets/avatar.png"
 import HeaderSocials from "./HeaderSocials"
 
 const Header = () => {
