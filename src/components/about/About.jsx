@@ -22,22 +22,22 @@ const About = () => {
           <article className="about__card">
               <RiAwardFill className="about__icon"/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
           </article>
           <article className="about__card">
               <LuUsers className="about__icon"/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>50+ Happy</small>
           </article>
           <article className="about__card">
               <VscFolderLibrary className="about__icon"/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>20+ Completed</small>
           </article>
         </div>
 
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit dolorem dolorum rerum provident labore, explicabo illum ullam mollitia officia laudantium consequuntur accusamus unde ab in enim voluptatem autem cupiditate quos.
+        I am a Junior Full Stack Web Developer graduated from the University of Miami Coding Bootcamp. I take pride in providing clean code and pixel-perfect designs. I have dedicated myself to learning and growing every day, constantly pushing my limits to discover new ways of creating amazing user experiences.
         </p>
 
         <a href="" className="btn btn-primary">Let's Talk</a>

@@ -14,31 +14,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Develop style guides and design systems to maintain design consistency throughout the product.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Structure content and functionality to ensure intuitive navigation.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Ensure that the design is responsive and works seamlessly across various devices and screen sizes.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Create animations, transitions, and micro-interactions to improve user engagement.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Choose color schemes, typography, and imagery that enhance the overall look and feel.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Define how users interact with elements on the screen.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Craft visually appealed interfaces that align with the brand identity</p>
             </li>
           </ul>
         </article>
@@ -49,35 +49,35 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Design and manage databases using technologies like MySQL,MongoDB, or Firebase</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Build online stores with features such as product catalog, shopping cart, and secure payment gateways.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Build robust APIs (Application Programming Interfaces) to facilitate data exchange between frontend and backend.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Provide customization and optimization for specific business needs.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Implement security measures to protect against common web vulnerabilities.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Provide ongoing support, updates, and maintenance to ensure the smooth functioning of websites and applications.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Communicate effectively with clients to understand their goals and requirements.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Ensure that websites are optimized for various devices and screen sizes.</p>
             </li>
           </ul>
         </article>
@@ -88,31 +88,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Create informative and engaging blog posts and articles.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Design and create graphics, images, and visual elements for websites.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Research and incorporate relevant keywords for SEO purposes</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Plann and schedule content updates to keep the website fresh and relevant</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Ensure that the written content aligns with the brand voice and resonates with the target audience.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Regularly update and maintaing website content to reflect the latest information.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Encourage and incorporate user-generated content, such as reviews or testimonials.</p>
             </li>
           </ul>
         </article>

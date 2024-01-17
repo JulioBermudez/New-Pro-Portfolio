@@ -16,19 +16,19 @@ const Testimonials = () => {
       client_name: "Olivia Rodriguez",
       img_url: AVTR1,
       review:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur, omnis cupiditate repellendus provident doloribus ex?",
+      "I couldn't be happier with the website developed by Julio Bermudez. His technical proficiency and problem-solving skills were evident throughout the entire process. The website not only meets but exceeds all our requirements. Julio is a reliable and talented web developer, and I wholeheartedly recommend his services.",
     },
     {
       client_name: "Ethan Marshall",
       img_url: AVTR2,
       review:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum culpa adipisci doloremque reiciendis. Aut totam veritatis hic, vero adipisci explicabo impedit nulla!",
+      "Working with Mr Bermudez has been an absolute pleasure. Our project was handled with professionalism and efficiency, resulting in a visually stunning and fully functional website. I highly recommend Mr Bermudez for anyone seeking a skilled web developer.",
     },
     {
       client_name: "Jackson Bennett",
       img_url: AVTR3,
       review:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit accusamus dolorem dignissimos non est tempore quis perferendis architecto.",
+      "We engaged Julio for our web development project, and the experience was fantastic. His ability to balance technical expertise with a creative approach resulted in a website that stands out in our industry. Julio was responsive to our feedback and always went the extra mile to ensure our satisfaction. I recommend his services.",
     },
   ];
 
