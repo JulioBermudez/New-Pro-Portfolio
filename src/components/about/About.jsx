@@ -37,7 +37,7 @@ const About = () => {
         </div>
 
         <p>
-        I am a Junior Full Stack Web Developer graduated from the University of Miami Coding Bootcamp. I take pride in providing clean code and pixel-perfect designs. I have dedicated myself to learning and growing every day, constantly pushing my limits to discover new ways of creating amazing user experiences.
+        I am an enthusiastic and detail-oriented Full Stack Junior Web Developer with strong foundation in front-end technologies like React, Next.js, and CSS frameworks such Bootstrap and Tailwind. Eager to contribute my skills in creating responsive and user-friendly web applications. A quick learner, adaptable to new technologies, and committed to staying at the forefront of industry trends.
         </p>
 
         <a href="" className="btn btn-primary">Let's Talk</a>

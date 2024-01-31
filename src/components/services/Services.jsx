@@ -38,7 +38,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Craft visually appealed interfaces that align with the brand identity</p>
+              <p>Craft visually appealed interfaces that align with the brand identity.</p>
             </li>
           </ul>
         </article>
@@ -49,7 +49,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Design and manage databases using technologies like MySQL,MongoDB, or Firebase</p>
+              <p>Design and manage databases using technologies like MySQL and MongoDB.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
@@ -96,11 +96,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Research and incorporate relevant keywords for SEO purposes</p>
+              <p>Research and incorporate relevant keywords for SEO purposes.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Plann and schedule content updates to keep the website fresh and relevant</p>
+              <p>Plann and schedule content updates to keep the website fresh and relevant.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>

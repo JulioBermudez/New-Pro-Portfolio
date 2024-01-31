@@ -15,6 +15,7 @@
     background: transparent;
 }
 .portfolio__item-image{
+    position: relative;
     border-radius: 1.5rem;
     overflow: hidden;
 }
@@ -26,6 +27,27 @@ display: flex;
 gap: 1rem;
 margin-bottom: 1rem;
 }
+.prompt{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 30%;
+    color: red;
+    font-size: 150%;
+    animation: coming-soon 2s infinite;
+}
+
+@keyframes coming-soon {
+    0% {
+      filter: opacity(0);
+    }
+    50% {
+      filter: opacity(1);
+    }
+    100% {
+      filter: opacity(0);
+    }
+  }
 
 /*============MEDIA QUERIES (MEDIUM DEVICES)===============*/
 @media screen and (max-width: 1024px) {

@@ -56,6 +56,7 @@ const Portfolio = () => {
             <>
               <article className="portfolio__item">
                 <div className="portfolio__item-image">
+                  <h3 className="prompt">Coming Soon</h3>
                   <img src={image_url} alt="" />
                 </div>
                 <h3>{title}</h3>
